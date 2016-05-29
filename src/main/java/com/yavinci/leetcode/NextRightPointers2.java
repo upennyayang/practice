@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 //      1
 //     / \
 //    2   3

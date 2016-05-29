@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 public class JumpGame2 {
     public int jump(int[] nums) {
         int edge = 0;

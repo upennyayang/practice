@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 // Only store len in the boundary
 import java.util.*;
 

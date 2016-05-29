@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 // word 1: i, word 2: j
 // if(c == d)
 // dp[i][j] = dp[i - 1][j - 1] 

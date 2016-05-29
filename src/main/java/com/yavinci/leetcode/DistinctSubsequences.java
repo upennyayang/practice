@@ -1,3 +1,7 @@
+package com.yavinci.leetcode;
+
+import java.util.Arrays;
+
 class DistinctSubsequences {
     public int numDistinct(String s, String t) {
         // dp[i][j] = num of distinct for index i for t, index j (smaller) for s (bigger)

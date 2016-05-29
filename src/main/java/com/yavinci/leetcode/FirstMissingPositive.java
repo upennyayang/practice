@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 public class FirstMissingPositive {
     public int firstMissingPositive(int[] nums) {
     	// Bucket sort

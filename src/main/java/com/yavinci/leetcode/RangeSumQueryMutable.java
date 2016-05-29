@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 // Remember that start == end is always checked for recursion ending (leaves / origin num)
 public class RangeSumQueryMutable {
     

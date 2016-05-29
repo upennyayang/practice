@@ -1,10 +1,4 @@
-// s1 = "aabcc",
-// s2 = "dbbca",
-
-// When s3 = "aadbbcbcac", return true.
-// When s3 = "aadbbbaccc", return false.
-
-import java.util.*;
+package com.yavinci.leetcode;
 
 // 9: 44
 class InterleavingString {

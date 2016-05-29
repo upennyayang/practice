@@ -1,13 +1,4 @@
-/*
- * NQueens
- * 
- * This is a classic backtracking problem.
- * Start row by row, and loop through columns. At each decision point, skip unsafe positions by using three boolean arrays.
- * Start going back when we reach row n.
- * Just FYI, if using HashSet, running time will be at least 3 times slower!
- */
-
-import java.util.*;
+package com.yavinci.leetcode;
 
 public class NQueens {
     int count = 0;

@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 // Window position                Max
 // ---------------               -----
 // [1  3  -1] -3  5  3  6  7       3

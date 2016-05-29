@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 import java.util.*;
 
 // 3: 45

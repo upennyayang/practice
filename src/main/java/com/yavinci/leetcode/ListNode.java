@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 /**
  * Definition for singly-linked list.
  */

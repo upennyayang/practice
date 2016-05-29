@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 public class LongestPalindromeSubstring {
     
     public String longestPalindrome(String s) {

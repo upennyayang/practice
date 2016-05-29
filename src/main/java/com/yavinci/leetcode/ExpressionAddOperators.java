@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 import java.util.*;
 
 // "123", 6 -> ["1+2+3", "1*2*3"] 

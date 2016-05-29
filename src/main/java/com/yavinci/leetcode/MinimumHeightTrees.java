@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 // https://leetcode.com/discuss/71738/easiest-75-ms-java-solution
 
 import java.util.*;

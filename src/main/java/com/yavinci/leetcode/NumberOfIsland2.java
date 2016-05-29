@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 /*
 https://leetcode.com/discuss/69572/easiest-java-solution-written-in-10-mins
 

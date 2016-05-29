@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 public class RangeSum2DImmutable {
     int[][] dp;
 

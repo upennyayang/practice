@@ -1,3 +1,5 @@
+package com.yavinci.leetcode;
+
 // https://leetcode.com/discuss/71995/easiest-o-1-space-java-solution
 // n houses
 // k colors
